@@ -22,30 +22,32 @@ Welcome to my Data Science and Data Analytics portfolio! I am currently pursuing
 - **Tools**: Python (Pandas, Matplotlib, Seaborn)
 - **[Project Link](./EDA%20Project)**
 
-### 2. Financial Inclusion in West Africa: A Machine Learning Approah
+### 2. Data Visualization Dashboard
+- **Objective**: Create an interactive dashboard to visualize key insights from a dataset.
+- **Description**: This project includes data visualization and dashboard design to enhance user experience.
+- **Tools**: Python (Plotly, Dash), Tableau, Power BI
+- **[Project Link](./Data%20Visualization%20Dashboard%20Project)**
+
+### 3. Financial Inclusion in West Africa: A Machine Learning Approah
 - **Objective**: Build and evaluate a predictive model using machine learning techniques.
 - **Description**: This project focuses on data preprocessing, feature engineering, model training and evaluation, and hyperparameter tuning.
 - **Tools**: Python (Scikit-learn)
 - **[Project Link](#)**
 
 
-### 3. Stellar Classification
+### 4. Stellar Classification
 - **Objective**: Build and evaluate a predictive model using machine learning techniques.
 - **Description**: This project focuses on data preprocessing, feature engineering, model training and evaluation, and hyperparameter tuning.
 - **Tools**: Python (Scikit-learn)
 - **[Project Link](#)**
   
-### 4. Time Series Analysis
+### 5. Time Series Analysis
 - **Objective**: Analyze and forecast time series data.
 - **Description**: This project involves time series decomposition, forecasting models (ARIMA, Prophet), and evaluation metrics.
 - **Tools**: Python (Pandas, Statsmodels, Prophet)
 - **[Project Link](#)**
 
-### 5. Data Visualization Dashboard
-- **Objective**: Create an interactive dashboard to visualize key insights from a dataset.
-- **Description**: This project includes data visualization and dashboard design to enhance user experience.
-- **Tools**: Python (Plotly, Dash), Tableau, Power BI
-- **[Project Link](#)**
+
 
 
 ## Contact Information
