@@ -3,7 +3,7 @@
 #### Technical Skills: Python, R 
 
 ## Education
-- BSc, Applied Statistics | The University of Cape Town (Dec 2024)
+- BSc, Applied Statistics | The University of Cape Town (_December 2024_)
 
 ## Projects
 
