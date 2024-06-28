@@ -4,7 +4,10 @@
 Welcome to my Data Science and Data Analytics portfolio! I am currently pursuing a BSc in Applied Statistics from the University of Cape Town (UCT). This portfolio showcases my skills and projects in data science and analytics, demonstrating my ability to tackle real-world problems using data-driven approaches.
 
 ## Education
-- BSc, Applied Statistics | The University of Cape Town (_December 2024_)
+- **BSc in Applied Statistics**, University of Cape Town (UCT)
+  - **Relevant Coursework**: 
+    - Probability & Statistical Theory, Data Analysis & Study Design, Statistical Inference and Modelling, Multivariate Data Analysis
+    - Calculus, Advanced Calculus, Linear Algebra, Introduction to Computer Science & Python Programming
 
 ## Skills and Tools
 - **Programming Languages**: Python, R, SQL
