@@ -20,7 +20,7 @@ Welcome to my Data Science and Data Analytics portfolio! I am currently pursuing
 - **Objective**: Analyze a dataset to uncover patterns, anomalies, and insights.
 - **Description**: This project involves data cleaning, visualization, and statistical analysis to understand the underlying patterns in the data.
 - **Tools**: Python (Pandas, Matplotlib, Seaborn)
-- **[Project Link](./EDA Project)**
+- **[Project Link](./EDA%20Project)**
 
 ### 2. Financial Inclusion in West Africa: A Machine Learning Approah
 - **Objective**: Build and evaluate a predictive model using machine learning techniques.
