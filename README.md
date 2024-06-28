@@ -11,7 +11,6 @@ Welcome to my Data Science and Data Analytics portfolio! I am currently pursuing
 - **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Plotly
 - **Machine Learning**: Scikit-learn, TensorFlow, Keras
 - **Time Series Analysis**: Statsmodels, Prophet
-- **Natural Language Processing**: NLTK, SpaCy
 - **Data Visualization Tools**: Tableau, Power BI, Dash
 - **Version Control**: Git, GitHub
 
@@ -32,14 +31,13 @@ Welcome to my Data Science and Data Analytics portfolio! I am currently pursuing
 - **Objective**: Build and evaluate a predictive model using machine learning techniques.
 - **Description**: This project focuses on data preprocessing, feature engineering, model training and evaluation, and hyperparameter tuning.
 - **Tools**: Python (Scikit-learn)
-- **[Project Link](#)**
-
+- **[Project Link](./ML%20Project%20-%20Financial%20Access%20in%20West%20Africa:%20A%20Machine%20Learning%20Approach)**
 
 ### 4. Stellar Classification
 - **Objective**: Build and evaluate a predictive model using machine learning techniques.
 - **Description**: This project focuses on data preprocessing, feature engineering, model training and evaluation, and hyperparameter tuning.
 - **Tools**: Python (Scikit-learn)
-- **[Project Link](#)**
+- **[Project Link](ML%20Project%20-%20Stellar%20Classification)**
   
 ### 5. Time Series Analysis
 - **Objective**: Analyze and forecast time series data.
