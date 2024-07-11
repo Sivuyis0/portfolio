@@ -12,10 +12,9 @@ Welcome to my Data Science and Data Analytics portfolio! I am currently pursuing
 ## Skills and Tools
 - **Programming Languages**: Python, R, SQL
 - **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Plotly
-- **Machine Learning**: Scikit-learn, TensorFlow, Keras
-- **Time Series Analysis**: Statsmodels, Prophet
-- **Data Visualization Tools**: Tableau, Power BI, Dash
-- **Version Control**: Git, GitHub
+- **Machine Learning**: Scikit-learn, R 
+- **Data Visualization Tools**: Tableau, Power BI
+- **Version Control**: GitHub
 
 ## Projects
 ### 1. Exploratory Data Analysis (EDA)
